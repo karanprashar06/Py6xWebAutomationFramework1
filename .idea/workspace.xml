@@ -4,7 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36e552ab-6cc9-43ad-be64-3a869b06c6b1" name="Changes" comment="new commit" />
+    <list default="true" id="36e552ab-6cc9-43ad-be64-3a869b06c6b1" name="Changes" comment="inital commit">
+      <change afterPath="$PROJECT_DIR$/src/test/pageObjects/POM/vwo/dashbordPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/pageObjects/POM/vwo/freeTrailPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/pageObjects/POM/vwo/loginpage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/tests/katalonStudio/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/tests/sample/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/tests/sample/test_sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/tests/sample/test_vwo_non_optimised_approach.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/tests/vwoLogin/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/tests/vwoLogin/test_vwo_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/utils/Utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/utils/common_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/constants/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/constants/Constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/pageObject/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/constants/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/pageObjects/PF/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/tests/katalonStudio/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/pageObjects/POM/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/tests/sample/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/pageObjects/POM/vwo/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/tests/vwoLogin/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/pageObjects/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/utils/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/tests/__init__.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +69,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for src.Test.tests.sample.test_sapmle.test_sample_pass.executor": "Run",
+    "Python tests.Python tests for src.test.tests.sample.test_vwo_non_optimised_approach.test_app_vwo_login_chrome.executor": "Run",
+    "Python tests.Python tests for src.test.tests.vwoLogin.test_vwo_login.test_vwo_login_negative.executor": "Run",
+    "Python tests.Python tests for src.test.tests.vwoLogin.test_vwo_login.test_vwo_login_positive.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -53,6 +80,83 @@
     "last_directory_selection": "C:/Users/karan/PycharmProjects/Py6xWebAutomationFramework"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\karan\PycharmProjects\Py6xWebAutomationFramework\src\test\pageObject\POM\vwo" />
+      <recent name="C:\Users\karan\PycharmProjects\Py6xWebAutomationFramework\src\test\pageObject\POM" />
+      <recent name="C:\Users\karan\PycharmProjects\Py6xWebAutomationFramework\src\Test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for src.test.tests.vwoLogin.test_vwo_login.test_vwo_login_negative">
+    <configuration name="Python tests for src.test.tests.sample.test_sample.test_sample_pass" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py6xWebAutomationFramework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.test.tests.sample.test_sample.test_sample_pass&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for src.test.tests.sample.test_vwo_non_optimised_approach.test_app_vwo_login_chrome" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py6xWebAutomationFramework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.test.tests.sample.test_vwo_non_optimised_approach.test_app_vwo_login_chrome&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for src.test.tests.vwoLogin.test_vwo_login.test_vwo_login_negative" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py6xWebAutomationFramework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.test.tests.vwoLogin.test_vwo_login.test_vwo_login_negative&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for src.test.tests.vwoLogin.test_vwo_login.test_vwo_login_positive" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py6xWebAutomationFramework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.test.tests.vwoLogin.test_vwo_login.test_vwo_login_positive&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for src.test.tests.vwoLogin.test_vwo_login.test_vwo_login_negative" />
+        <item itemvalue="Python tests.Python tests for src.test.tests.vwoLogin.test_vwo_login.test_vwo_login_positive" />
+        <item itemvalue="Python tests.Python tests for src.test.tests.sample.test_vwo_non_optimised_approach.test_app_vwo_login_chrome" />
+        <item itemvalue="Python tests.Python tests for src.test.tests.sample.test_sample.test_sample_pass" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -84,11 +188,47 @@
       <option name="project" value="LOCAL" />
       <updated>1770723855927</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new commit">
+      <option name="closed" value="true" />
+      <created>1770725400309</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1770725400309</updated>
+    </task>
+    <task id="LOCAL-00004" summary="inital commit">
+      <option name="closed" value="true" />
+      <created>1770728509576</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1770728509584</updated>
+    </task>
+    <task id="LOCAL-00005" summary="inital commit">
+      <option name="closed" value="true" />
+      <created>1770728982320</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1770728982320</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="new commit" />
+    <MESSAGE value="inital commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="inital commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/test/tests/sample/test_vwo_non_optimised_approach.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
