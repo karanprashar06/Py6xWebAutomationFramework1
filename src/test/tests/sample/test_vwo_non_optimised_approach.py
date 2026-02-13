@@ -49,3 +49,17 @@ def test_app_vwo_login_chrome():
 
     time.sleep(3)
     driver.quit()
+
+def test_amazon():
+    chrome_options = Options()
+    chrome_options.add_argument("--incognito")
+    chrome_options.add_argument("--start-maximized")
+    driver =webdriver.Chrome(options=chrome_options)
+    driver.get("https://amazon.com")
+
+    time.sleep(3)
+
+    web_element =driver.find_element(By.XPATH,"//span[normalize-space()='Cleaning Tools']")
+    web_element.click()
+
+    time.sleep(10)
