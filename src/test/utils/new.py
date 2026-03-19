@@ -1,14 +1,21 @@
-#Declare a variable with value "Good morning" and count each character how many times its repeated in dictionary
-# format(key: char, Value: count)
+n= int(input("Enter the number"))
 
-variable = "Good morning"
 
-dict = {}
+def fibonachi(n):
 
-for char in variable:
-    if char in dict:
-        dict[char] =+1
+    if n<=1:
+        return n
     else:
-        dict[char]=1
+        return fibonachi(n-1)+fibonachi(n-2)
 
-print(f"The formated dictionary format is given {dict}")
+
+    #
+    # a =0,
+    # b=1
+    # for i in range(n):
+    #     print(a, end=' ')
+    #     a,b = b,a+b
+
+
+for i in range(n):
+    print(fibonachi(i),end=" ")

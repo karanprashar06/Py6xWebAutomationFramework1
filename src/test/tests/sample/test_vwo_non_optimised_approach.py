@@ -39,7 +39,7 @@ def test_app_vwo_login_chrome():
     submit_btn_web_element = driver.find_element(By.ID, "js-login-btn")
     submit_btn_web_element.click()
 
-    time.sleep(3)
+    #time.sleep(3)
 
     error_message_web_element = driver.find_element(By.CLASS_NAME, "notification-box-description")
     print(error_message_web_element.text)
@@ -49,17 +49,3 @@ def test_app_vwo_login_chrome():
 
     time.sleep(3)
     driver.quit()
-
-def test_amazon():
-    chrome_options = Options()
-    chrome_options.add_argument("--incognito")
-    chrome_options.add_argument("--start-maximized")
-    driver =webdriver.Chrome(options=chrome_options)
-    driver.get("https://amazon.com")
-
-    time.sleep(3)
-
-    web_element =driver.find_element(By.XPATH,"//span[normalize-space()='Cleaning Tools']")
-    web_element.click()
-
-    time.sleep(10)
